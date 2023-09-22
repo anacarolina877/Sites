@@ -4,7 +4,7 @@ html, body {
   }  
   header {  
       background-color: black;  
-      color: green;  
+      color: Pink;  
       height: 60px;  
       width: 100%;  
       position: fixed;  
@@ -20,11 +20,11 @@ html, body {
       padding: 20 10 20 10;  
   }  
   li:hover {  
-      background-color: #01AAEA;  
+      background-color: blue;  
   
   }  
   #titulo {  
-      color: white;  
+      color:blue;  
       padding-top: 20%;  
       font-size: 70px;  
       line-height: 0.6;  
